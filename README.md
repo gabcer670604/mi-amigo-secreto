@@ -1,4 +1,4 @@
-# amigo-secreto
+# mi-amigo-secreto
 El objetivo de este programa es capturar nombres de amigos y en forma aleatoria hace la selección del nombre.
 
 - Valida que no se puede capturar campo vacío en caso contrario es válido.
